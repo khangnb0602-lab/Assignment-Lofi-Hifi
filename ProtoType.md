@@ -3,7 +3,7 @@
 
 | Item | Link |
 |---|---|
-| Live prototype (Render) | https://khangnb0602-lab.github.io/PrototypeDemo/ |
+| Live prototype | https://khangnb0602-lab.github.io/PrototypeDemo/ |
 | Source repo | https://github.com/khangnb0602-lab/Assignment-Lofi-Hifi |
 | Lofi wireframes | `./Lofi/` |
 | Hifi wireframes | `./Hifi/` |
